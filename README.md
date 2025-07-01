@@ -69,7 +69,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/CIFAR10-ResNet50.git
+git clone https://github.com/yestto/CIFAR10-ResNet50.git
 cd CIFAR10-ResNet50
 Install dependencies (optional virtual env recommended):
 
